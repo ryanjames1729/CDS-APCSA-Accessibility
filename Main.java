@@ -4,7 +4,7 @@ class Main {
   
   //public class ClassTester
   //{
-     public static void main(String[] arg)
+     public static void main(String[] args)
      {
         MadeUpDisease test = new MadeUpDisease();
         System.out.println(test + "\n");
